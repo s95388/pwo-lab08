@@ -1,0 +1,8 @@
+/home/student/NetBeansProjects/lab08/lab08-engine/src/main/java/pwo/lab08/engine/Engine.java
+/home/student/NetBeansProjects/lab08/lab08-engine/src/main/java/pwo/lab08/engine/seq/SeqType.java
+/home/student/NetBeansProjects/lab08/lab08-engine/src/main/java/pwo/lab08/engine/utilis/SequenceGenerator.java
+/home/student/NetBeansProjects/lab08/lab08-engine/src/main/java/pwo/lab08/engine/seq/FibonacciGenerator.java
+/home/student/NetBeansProjects/lab08/lab08-engine/src/main/java/pwo/lab08/engine/seq/Generator.java
+/home/student/NetBeansProjects/lab08/lab08-engine/src/main/java/pwo/lab08/engine/utilis/SequenceTools.java
+/home/student/NetBeansProjects/lab08/lab08-engine/src/main/java/pwo/lab08/engine/seq/TribonacciGenerator.java
+/home/student/NetBeansProjects/lab08/lab08-engine/src/main/java/pwo/lab08/engine/seq/LucasGenerator.java
